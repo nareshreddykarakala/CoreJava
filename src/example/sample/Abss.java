@@ -1,4 +1,4 @@
-package com.sample;
+package example.sample;
 
 public abstract class Abss {
 

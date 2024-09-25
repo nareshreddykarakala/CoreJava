@@ -1,4 +1,4 @@
-package com;
+package example;
 
 public class Arrays {
 

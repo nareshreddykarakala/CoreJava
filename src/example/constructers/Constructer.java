@@ -1,4 +1,4 @@
-package com.constructers;
+package example.constructers;
 
 public class Constructer {
     private String str;

@@ -1,7 +1,6 @@
-package com.sample2;
+package example.sample2;
 
-import com.sample.Modifilerss;
-import com.sample.Test;
+import example.sample.Modifilerss;
 
 public class Testing extends  Modifilerss{
     public static void main(String[] args) {

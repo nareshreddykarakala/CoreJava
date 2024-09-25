@@ -1,4 +1,4 @@
-package com.constructers;
+package example.constructers;
 
 import java.util.HashMap;
 import java.util.Map;

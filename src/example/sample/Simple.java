@@ -1,4 +1,4 @@
-package com.sample;
+package example.sample;
 
 public class Simple {
     int a=10;//instance variable

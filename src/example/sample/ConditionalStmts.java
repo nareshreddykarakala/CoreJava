@@ -1,4 +1,4 @@
-package com.sample;
+package example.sample;
 
 public class ConditionalStmts {
     public static void main(String[] args) {

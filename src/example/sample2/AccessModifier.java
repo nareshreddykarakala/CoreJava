@@ -1,4 +1,4 @@
-package com.sample2;
+package example.sample2;
 
 public class AccessModifier {
 

@@ -1,6 +1,6 @@
-package com.sample2;
+package example.sample2;
 
-import com.sample.Test;
+import example.sample.Test;
 
 public class Modifiers extends Test {
 
